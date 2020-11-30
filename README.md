@@ -1,3 +1,3 @@
 # Hello-world
-Learning github\n
+Learning github \r
 I can't learn android alone
